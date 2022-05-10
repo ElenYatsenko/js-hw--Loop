@@ -61,3 +61,5 @@ function checkAnswerUser(userNumber) {
     return "error";
   }
 }
+
+console.log(startGame());
